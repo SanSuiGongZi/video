@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="main_color">#85c942</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <!-- 视频相关的颜色 -->
+    <color name="video_progress_bg">#4Cffffff</color>
+    <color name="head_portrait_bg">#99ffffff</color>
+    <color name="video_controller_bg">#28ffffff</color>
+    <color name="video_progress_indicator_start">#7789fc28</color>
+    <color name="video_progress_indicator_end">#ff89fc28</color>
+    <color name="null_color">#00000000</color>
+
+</resources>
